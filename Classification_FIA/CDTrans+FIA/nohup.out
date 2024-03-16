@@ -1,0 +1,1508 @@
+[I 13:54:01.724 NotebookApp] Serving notebooks from local directory: /home/shim/pyspace/CDTrans
+[I 13:54:01.724 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 13:54:01.724 NotebookApp] http://localhost:8888/?token=d3da4dae8d57589844c4a8193f204a7ae2ef48b9f1db90ed
+[I 13:54:01.724 NotebookApp]  or http://127.0.0.1:8888/?token=d3da4dae8d57589844c4a8193f204a7ae2ef48b9f1db90ed
+[I 13:54:01.724 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:54:01.726 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/shim/.local/share/jupyter/runtime/nbserver-72853-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=d3da4dae8d57589844c4a8193f204a7ae2ef48b9f1db90ed
+     or http://127.0.0.1:8888/?token=d3da4dae8d57589844c4a8193f204a7ae2ef48b9f1db90ed
+[W 13:54:12.108 NotebookApp] 404 GET /api/contents/pyspace/CDTrans/processor?type=directory&_=1709395766416 (127.0.0.1): file or directory does not exist: 'pyspace/CDTrans/processor'
+[W 13:54:12.108 NotebookApp] file or directory does not exist: 'pyspace/CDTrans/processor'
+[W 13:54:12.109 NotebookApp] 404 GET /api/contents/pyspace/CDTrans/processor?type=directory&_=1709395766416 (127.0.0.1) 2.050000ms referer=http://localhost:8004/tree/pyspace/CDTrans/processor
+[W 13:54:12.962 NotebookApp] 404 GET /tree/pyspace/CDTrans/processor (127.0.0.1) 30.820000ms referer=http://localhost:8004/login?next=%2Ftree%2Fpyspace%2FCDTrans%2Fscripts%2Fpretrain%2Foffice31
+[W 13:54:18.367 NotebookApp] 404 GET /tree/pyspace/CDTrans/processor (127.0.0.1) 2.400000ms referer=http://localhost:8004/login?next=%2Ftree%2Fpyspace%2FCDTrans%2Fscripts%2Fpretrain%2Foffice31
+[W 13:54:18.551 NotebookApp] 404 GET /tree/pyspace/CDTrans/processor (127.0.0.1) 2.250000ms referer=http://localhost:8004/login?next=%2Ftree%2Fpyspace%2FCDTrans%2Fscripts%2Fpretrain%2Foffice31
+[I 13:54:23.786 NotebookApp] 302 GET / (127.0.0.1) 0.740000ms
+[W 13:54:34.267 NotebookApp] 404 GET /edit/pyspace/CDTrans/processor/processor_uda.py (127.0.0.1): File does not exist: pyspace/CDTrans/processor/processor_uda.py
+[W 13:54:34.269 NotebookApp] 404 GET /edit/pyspace/CDTrans/processor/processor_uda.py (127.0.0.1) 2.620000ms referer=http://localhost:8004/tree/pyspace/CDTrans/processor
+[W 13:55:00.190 NotebookApp] 404 GET /edit/pyspace/CDTrans/train.py (127.0.0.1): File does not exist: pyspace/CDTrans/train.py
+[W 13:55:00.192 NotebookApp] 404 GET /edit/pyspace/CDTrans/train.py (127.0.0.1) 2.590000ms referer=http://localhost:8004/tree/pyspace/CDTrans
+[W 13:55:31.315 NotebookApp] 404 GET /notebooks/pyspace/CDTrans/inference.py.ipynb (127.0.0.1): file or directory does not exist: 'pyspace/CDTrans/inference.py.ipynb'
+[W 13:55:31.317 NotebookApp] 404 GET /notebooks/pyspace/CDTrans/inference.py.ipynb (127.0.0.1) 3.160000ms referer=http://localhost:8004/tree/pyspace/CDTrans
+[W 13:55:36.090 NotebookApp] Notebook inference.py.ipynb is not trusted
+[I 13:55:36.238 NotebookApp] Kernel started: 5c53e012-5c1a-4146-ac75-57856f154dd0, name: python3
+[I 13:57:42.475 NotebookApp] Saving file at /train.py
+[I 13:57:42.599 NotebookApp] Saving file at /train.py
+[I 13:58:03.006 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:12.762 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:17.822 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:17.970 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:27.712 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:32.048 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:58:32.204 NotebookApp] Saving file at /inference.py.ipynb
+[I 13:59:36.287 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:00:16.490 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:01:08.956 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:01:09.127 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:01:47.450 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:01:47.610 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:02:25.020 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:02:41.024 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:02:41.208 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:03:03.848 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:03:03.992 NotebookApp] Saving file at /inference.py.ipynb
+[I 14:03:17.392 NotebookApp] Saving file at /inference.py.ipynb
+/home/shim/miniconda3/envs/torch/lib/python3.10/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/shim/miniconda3/envs/torch/lib/python3.10/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 14:03:36.286 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:05:36.364 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:06:18.772 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:10.072 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:25.544 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:27.547 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:27.727 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:53.060 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:07:53.169 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:09:37.180 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:10:12.912 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:12:11.264 NotebookApp] Saving file at /configs/uda.yml
+[I 15:12:11.456 NotebookApp] Saving file at /configs/uda.yml
+[I 15:12:47.719 NotebookApp] Saving file at /configs/uda.yml
+[I 15:12:47.874 NotebookApp] Saving file at /configs/uda.yml
+[I 15:12:55.618 NotebookApp] Saving file at /configs/uda.yml
+[I 15:13:26.322 NotebookApp] Saving file at /configs/uda.yml
+[I 15:13:38.810 NotebookApp] Saving file at /configs/uda.yml
+[I 15:13:38.953 NotebookApp] Saving file at /configs/uda.yml
+[I 15:14:13.728 NotebookApp] Saving file at /configs/uda.yml
+[I 15:15:01.837 NotebookApp] Saving file at /configs/uda.yml
+[I 15:15:01.966 NotebookApp] Saving file at /configs/uda.yml
+[I 15:15:10.868 NotebookApp] Saving file at /configs/uda.yml
+[I 15:15:11.016 NotebookApp] Saving file at /configs/uda.yml
+[I 15:15:36.551 NotebookApp] Saving file at /configs/uda.yml
+[I 15:16:27.392 NotebookApp] Saving file at /configs/uda.yml
+[I 15:16:44.130 NotebookApp] Saving file at /configs/uda.yml
+[I 15:16:57.019 NotebookApp] Saving file at /configs/uda.yml
+[I 15:17:18.515 NotebookApp] Saving file at /configs/uda.yml
+[I 15:17:18.679 NotebookApp] Saving file at /configs/uda.yml
+[I 15:17:45.143 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:17:45.287 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:19:37.231 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:20:54.360 NotebookApp] Saving file at /configs/uda.yml
+[I 15:20:54.529 NotebookApp] Saving file at /configs/uda.yml
+[I 15:20:56.148 NotebookApp] Saving file at /configs/uda.yml
+[I 15:20:56.292 NotebookApp] Saving file at /configs/uda.yml
+[I 15:21:36.345 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:23:13.367 NotebookApp] Saving file at /configs/uda.yml
+[I 15:23:13.507 NotebookApp] Saving file at /configs/uda.yml
+[I 15:23:13.690 NotebookApp] Saving file at /configs/uda.yml
+[I 15:23:37.219 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:23:53.431 NotebookApp] Saving file at /configs/uda.yml
+[I 15:23:53.554 NotebookApp] Saving file at /configs/uda.yml
+[I 15:23:53.759 NotebookApp] Saving file at /configs/uda.yml
+[I 15:24:13.791 NotebookApp] Saving file at /configs/uda.yml
+[I 15:24:13.923 NotebookApp] Saving file at /configs/uda.yml
+[I 15:24:14.203 NotebookApp] Saving file at /configs/uda.yml
+[I 15:24:14.391 NotebookApp] Saving file at /configs/uda.yml
+[I 15:25:36.354 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:34:43.040 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:34:43.173 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:35:36.380 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:39:36.362 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:39:50.565 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:41:37.217 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:42:08.199 NotebookApp] Saving file at /configs/uda.yml
+[I 15:42:08.358 NotebookApp] Saving file at /configs/uda.yml
+[I 15:42:08.511 NotebookApp] Saving file at /configs/uda.yml
+[I 15:42:08.763 NotebookApp] Saving file at /configs/uda.yml
+[I 15:44:03.798 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:44:03.949 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:44:29.449 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:44:29.601 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:44:56.049 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:05.538 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:05.698 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:30.526 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:36.799 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:36.943 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:49.226 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:45:49.352 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:46:08.857 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:46:08.969 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:46:12.203 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:46:25.707 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:46:25.860 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:47:17.689 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:47:17.792 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:47:36.364 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:47:55.257 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:47:55.386 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:48:37.209 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:48:37.339 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:51:21.836 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:51:21.971 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:51:51.864 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:51:52.008 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:54:34.913 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:54:35.062 NotebookApp] Saving file at /inference.py.ipynb
+[I 15:55:37.216 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:32:35.801 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:32:35.892 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:32:54.778 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:32:54.893 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:33:33.836 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:33:33.953 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:47.125 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:50.111 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:50.261 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:50.633 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:50.773 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:36:53.951 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:37:36.473 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:20.788 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:20.932 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:28.376 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:28.508 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:31.672 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:32.428 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:38:32.595 NotebookApp] Saving file at /inference.py.ipynb
+[I 17:41:10.752 NotebookApp] Saving file at /scripts/pretrain/visda/run_visda.sh
+[I 17:46:28.722 NotebookApp] Creating new directory in /data/FairDomain_Classify
+[I 17:46:36.908 NotebookApp] Creating new directory in /data/FairDomain_Classify
+[I 18:54:29.636 NotebookApp] Creating new notebook in /data/FairDomain_Classify
+[I 18:54:30.575 NotebookApp] Kernel started: 26aae0d3-ac1f-45d0-8137-25e772a0499d, name: python3
+[I 18:56:01.199 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:01.339 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:06.826 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:06.942 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:07.438 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:07.583 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:07.975 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:12.346 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:12.485 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:15.255 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:15.408 NotebookApp] Saving file at /data/FairDomain_Classify/Untitled.ipynb
+[I 18:56:26.328 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 18:56:26.500 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:19.743 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:19.863 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:24.679 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:24.804 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:37.868 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:38.015 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:39.291 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:39.408 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:40.171 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:40.259 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:45.962 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:02:47.210 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:00.019 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:00.192 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:13.271 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:17.719 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:17.943 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:28.892 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:36.948 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:37.072 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:54.976 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:58.759 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:03:58.864 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:02.740 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:05.604 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:05.804 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:06.380 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:09.445 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:09.584 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:09.844 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:22.314 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:22.461 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:34.298 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:34.390 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:35.873 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:35.970 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:39.858 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:39.962 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:40.658 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:04:40.826 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:43.151 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:43.175 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:45.223 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:45.339 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:48.979 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:49.095 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:51.919 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:52.023 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:52.227 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:52.795 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:52.903 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:53.343 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:09:53.455 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:17.867 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:18.003 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:22.090 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:25.188 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:25.327 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:35.091 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:11:35.212 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:05.013 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:22.240 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:26.933 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:27.872 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:27.993 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:45.053 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:15:45.228 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:05.640 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:05.748 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:06.995 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:07.131 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:12.503 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:12.616 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:15.503 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:15.603 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:15.798 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:16.386 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:16.507 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:19.727 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:21.821 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:21.945 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:29.929 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:30.026 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:30.643 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:30.737 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:30.844 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:32.841 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:33.178 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:34.903 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:35.016 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:35.684 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:35.804 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:36.736 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:16:36.892 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:17:04.019 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:17:04.175 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:17:32.204 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:17:34.245 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:17:34.412 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:30.144 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:39.028 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:39.156 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:40.636 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:40.744 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:45.240 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:45.364 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:50.019 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:50.148 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:51.172 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:51.316 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:55.796 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:18:58.360 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:02.940 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:07.020 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:07.128 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:10.176 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:11.528 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:11.668 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:19:46.938 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:02.920 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:03.047 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:06.095 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:06.220 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:17.998 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:18.192 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:20:41.140 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:22:17.218 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:22:20.154 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:22:20.270 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:22:21.050 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:22:21.215 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:23:51.392 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:23:57.340 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:23:57.972 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:23:58.103 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:24:24.388 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:24:44.240 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:24:55.015 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:24:55.195 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:05.812 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:05.904 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:13.745 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:13.955 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:18.055 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:18.252 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:25:52.556 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:00.237 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:00.516 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:05.328 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:12.013 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:26.469 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:26:30.927 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:10.094 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:10.407 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:18.154 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:18.403 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:30.054 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:30.311 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:43.563 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:43.824 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:46.488 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:46.732 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:47.188 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:27:47.419 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:28:00.397 NotebookApp] Creating new directory in /data/FairDomain_Classify
+[I 19:28:18.565 NotebookApp] Creating new directory in /data/FairDomain_Classify
+[I 19:28:40.922 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus
+[I 19:28:46.916 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus
+[I 19:29:03.010 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:07.759 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:09.667 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:09.915 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:14.428 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:14.690 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:16.859 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:17.119 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:41.842 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:29:57.819 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:30.911 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:31.282 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:31.529 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:31.878 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:32.126 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:32.562 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:32.830 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:50.539 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:50.802 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:51.283 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:30:51.515 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:16.146 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:16.411 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:20.090 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:20.333 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:23.356 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:23.620 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:25.113 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:25.317 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:28.369 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:28.633 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:29.097 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:29.375 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:44.653 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:54.634 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:31:54.881 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:04.450 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:04.686 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:12.146 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:12.410 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:14.074 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:14.338 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:20.675 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:20.923 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:23.359 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:23.619 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:30.896 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:31.532 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:50.485 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:50.749 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:52.462 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:32:52.725 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:01.470 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:03.079 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:03.338 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:11.278 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:20.873 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:21.133 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:39.193 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:39.457 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:42.652 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:42.925 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:47.245 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:55.146 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:58.770 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:59.031 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:59.450 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:33:59.618 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:02.074 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:02.686 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:02.951 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:03.330 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:03.594 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:03.994 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:04.266 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:34:06.560 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:21.234 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:26.423 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:27.321 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:27.890 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:28.246 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:32.028 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:32.382 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:34.498 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:34.849 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:38.211 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:42.448 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:42.864 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:43.160 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:55.332 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:45:55.676 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:04.224 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:04.580 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:05.788 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:06.160 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:09.928 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:10.277 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:16.665 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:17.041 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:17.394 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:21.025 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:25.249 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:25.601 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:29.185 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:32.297 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:34.621 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:34.986 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:35.838 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:36.212 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:39.390 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:41.378 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:41.734 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:46:42.377 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:47:10.094 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:47:10.686 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:47:11.038 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:47:13.978 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:48:13.553 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:48:13.901 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:49:04.093 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:49:28.570 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:49:56.222 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:05.508 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:06.204 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:06.549 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:08.960 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:09.345 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:09.644 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:16.757 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:17.112 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:20.357 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:20.711 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:21.061 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:21.432 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:21.796 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:22.153 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:27.783 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:28.123 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:31.849 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:32.200 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:34.969 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:35.329 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:36.921 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:37.268 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:37.621 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:37.980 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:38.333 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:53.328 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:50:53.678 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:12.478 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:12.842 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:18.734 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:19.110 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:19.402 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:19.879 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:20.221 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:23.171 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:23.565 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:23.858 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:25.802 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:26.149 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:30.898 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:31.950 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:32.327 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:32.634 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:32.978 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:33.328 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:42.297 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:45.329 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:47.977 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:48.328 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:48.785 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:49.145 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:51.085 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:51.446 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:54.057 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:59.434 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:52:59.790 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:53:00.474 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:53:00.835 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:53:13.476 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/train
+[I 19:53:22.060 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/train
+[I 19:53:32.049 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/test
+[I 19:53:38.443 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/test
+[I 19:53:57.532 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/train
+[I 19:54:04.448 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/train
+[I 19:54:44.835 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:45.180 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:53.717 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:54.962 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:55.325 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:56.017 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:54:56.377 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:06.602 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:16.385 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:16.742 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:29.204 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:29.564 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:30.008 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:30.369 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:30.756 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:31.049 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:34.017 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:39.216 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:42.094 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:42.474 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:42.770 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:45.717 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:55:52.953 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:08.016 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:08.369 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:10.060 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:10.428 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:15.920 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:22.664 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:23.008 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:24.401 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:24.749 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:26.513 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:30.937 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:32.321 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:39.408 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:39.881 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:40.228 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:42.302 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:42.646 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:43.000 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:43.353 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:45.744 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:58.766 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:56:59.112 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:08.678 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:09.033 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:15.816 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:16.184 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:17.076 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:17.434 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:41.389 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:41.761 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:48.750 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:57:49.114 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 19:58:31.683 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:00:40.698 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:00:41.053 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:00:41.941 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:00:42.313 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:02.073 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:17.674 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:44.931 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:45.223 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:46.717 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:47.141 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:55.443 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:01:55.828 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:19.481 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:19.874 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:20.186 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:25.156 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:25.524 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:26.697 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:30.962 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:31.263 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:31.609 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:32.007 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:32.306 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:32.688 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:32.984 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:52.482 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:53.270 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:53.631 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:55.003 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:55.345 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:58.082 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:02:58.434 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:04.762 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:05.132 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:05.430 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:05.821 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:06.118 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:09.137 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:14.420 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:17.053 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:17.454 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:17.751 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:20.284 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:20.668 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:20.976 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:21.367 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:21.656 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:55.080 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:03:55.427 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:04:30.970 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:04:47.007 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:04:47.357 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:04:52.991 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:04:53.341 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:05:02.349 NotebookApp] Starting buffering for 26aae0d3-ac1f-45d0-8137-25e772a0499d:a6b2752f9e7f4c5d895d006bf0e92b71
+[I 20:05:02.350 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 20:10:13.248 NotebookApp] Restoring connection for 26aae0d3-ac1f-45d0-8137-25e772a0499d:a6b2752f9e7f4c5d895d006bf0e92b71
+[I 20:10:20.448 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:24.700 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:25.010 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:31.680 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:47.531 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:50.265 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:50.597 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:50.864 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:51.177 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:10:51.495 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:11:00.830 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:11:01.628 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:11:55.334 NotebookApp] delete /data/FairDomain_Classify/oct_fundus/train/oct_train_list.txt
+[W 20:12:04.881 NotebookApp] delete /data/FairDomain_Classify/oct_fundus/train/non_glaucoma/oct_data_02349.jpg
+[W 20:12:04.887 NotebookApp] delete /data/FairDomain_Classify/oct_fundus/train/non_glaucoma/oct_data_01750.jpg
+[W 20:12:04.889 NotebookApp] delete /data/FairDomain_Classify/oct_fundus/train/non_glaucoma/oct_data_08308.jpg
+[W 20:12:04.914 NotebookApp] delete /data/FairDomain_Classify/oct_fundus/train/non_glaucoma/oct_data_08436.jpg
+[W 20:12:20.071 NotebookApp] delete /data/FairDomain_Classify/slo_fundus/train/slo_train_list.txt
+[W 20:12:27.656 NotebookApp] delete /data/FairDomain_Classify/slo_fundus/train/non_glaucoma/slo_data_01750.jpg
+[W 20:12:27.661 NotebookApp] delete /data/FairDomain_Classify/slo_fundus/train/non_glaucoma/slo_data_08308.jpg
+[W 20:12:27.663 NotebookApp] delete /data/FairDomain_Classify/slo_fundus/train/non_glaucoma/slo_data_02349.jpg
+[W 20:12:27.665 NotebookApp] delete /data/FairDomain_Classify/slo_fundus/train/non_glaucoma/slo_data_08436.jpg
+[I 20:12:34.015 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:12:34.329 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:12:36.727 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:12:37.070 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:12:47.595 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:12:53.088 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:00.906 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:01.219 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:04.036 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:13.288 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:13.606 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:16.478 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:16.786 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:17.661 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:17.970 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:25.929 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:26.253 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:30.842 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:37.839 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:38.164 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:48.614 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:13:54.429 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:01.093 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:07.724 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:10.254 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:12.745 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:21.680 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:25.765 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:28.545 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:33.359 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:33.677 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:35.877 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:36.197 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:36.843 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:14:37.158 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:16:08.509 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:18:30.979 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:20:30.926 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:20:43.224 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:25:31.631 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/test/glaucoma
+[I 20:25:40.371 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/test/non_glaucoma
+[I 20:26:07.750 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/train/glaucoma
+[I 20:26:15.630 NotebookApp] Creating new directory in /data/FairDomain_Classify/oct_fundus/train/non_glaucoma
+[I 20:26:31.247 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/train/glaucoma
+[I 20:26:39.261 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/train/non_glaucoma
+[I 20:26:53.094 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/test/glaucoma
+[I 20:27:02.405 NotebookApp] Creating new directory in /data/FairDomain_Classify/slo_fundus/test/non_glaucoma
+[I 20:27:24.146 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:27:31.637 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:27:36.385 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:28:30.969 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:29:55.878 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:29:56.210 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[I 20:29:56.984 NotebookApp] Starting buffering for 26aae0d3-ac1f-45d0-8137-25e772a0499d:a6b2752f9e7f4c5d895d006bf0e92b71
+[I 20:30:36.113 NotebookApp] Creating new directory in /scripts/pretrain
+[I 20:31:22.382 NotebookApp] Creating new file in /scripts/pretrain/fairdomain
+[I 20:31:34.011 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:34.148 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:37.875 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:38.079 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:49.983 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:50.112 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:58.543 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:31:58.663 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:32:27.623 NotebookApp] Saving file at /scripts/pretrain/visda/run_visda.sh
+[I 20:32:27.763 NotebookApp] Saving file at /scripts/pretrain/visda/run_visda.sh
+[I 20:37:25.016 NotebookApp] Copying datasets/office.py to /datasets
+[I 20:37:43.148 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:37:43.260 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:37:45.078 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:37:45.291 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:37:49.235 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:38:01.489 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:01.621 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:16.689 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:21.201 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:21.324 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:24.282 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:24.403 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:24.552 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:30.227 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:30.320 NotebookApp] Saving file at /datasets/make_dataloader.py
+[I 20:38:48.951 NotebookApp] Saving file at /scripts/pretrain/visda/run_visda.sh
+[I 20:38:49.085 NotebookApp] Saving file at /scripts/pretrain/visda/run_visda.sh
+[I 20:38:58.570 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:38:58.675 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:10.909 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:11.005 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:20.783 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:20.880 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:40.067 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:39:55.884 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:11.876 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:12.091 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:19.751 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:51.591 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:51.709 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:40:55.500 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:41:50.277 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:41:50.437 NotebookApp] Saving file at /scripts/pretrain/fairdomain/run_fairdomain.sh
+[I 20:46:33.566 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:46:48.737 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:46:48.935 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:48:16.300 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:48:16.420 NotebookApp] Saving file at /datasets/fundus.py
+[I 20:48:16.584 NotebookApp] Saving file at /datasets/fundus.py
+[W 20:49:06.332 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:18.608 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:18.608 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:18.881 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:18.882 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:19.145 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:19.146 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:19.465 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:19.465 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:19.717 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:19.718 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:27.806 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:27.807 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:28.106 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:28.107 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:31.292 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:31.293 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:31.610 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:31.610 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:35.741 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:35.742 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:36.053 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:36.054 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:39.354 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:39.354 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:49:39.670 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:49:39.671 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:53:52.678 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:53:52.679 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:53:52.989 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:53:52.990 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 20:55:07.781 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 20:55:07.782 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 21:02:04.559 NotebookApp] Starting buffering for 26aae0d3-ac1f-45d0-8137-25e772a0499d:6377b95ba8a44f1d8aedc86eec3d0612
+[I 21:02:21.923 NotebookApp] Creating new directory in /scripts/uda
+[I 21:02:35.755 NotebookApp] Creating new file in /scripts/uda/fairdomain
+[I 21:03:12.313 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:03:12.441 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:03:31.749 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:03:36.888 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:03:37.013 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:00.017 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:44.151 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:52.587 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:52.695 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:53.723 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:04:53.896 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:00.211 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:00.331 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:01.075 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:01.195 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:07.339 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:07.459 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:08.352 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:08.476 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:11.347 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:11.468 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:31.842 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:31.954 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:36.346 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:36.428 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:37.018 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:37.186 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:05:56.471 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:00.412 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:00.531 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:04.000 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:04.125 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:04.370 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:04.811 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:04.951 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:06:49.357 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:17.348 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:17.492 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:18.001 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:18.124 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:22.326 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:22.431 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:07:31.549 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:08:53.128 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:08:53.288 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:09:09.580 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:10:16.186 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:10:16.379 NotebookApp] Saving file at /scripts/uda/fairdomain/run_fairdomain.sh
+[I 21:49:58.967 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 21:50:02.619 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:50:02.761 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:50:33.848 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:50:33.981 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:50:56.691 NotebookApp] Saving file at /configs/uda.yml
+[I 21:50:56.803 NotebookApp] Saving file at /configs/uda.yml
+[I 21:50:59.443 NotebookApp] Saving file at /configs/uda.yml
+[I 21:51:13.496 NotebookApp] Saving file at /configs/uda.yml
+[I 21:51:22.183 NotebookApp] Saving file at /configs/uda.yml
+[I 21:51:30.728 NotebookApp] Saving file at /configs/uda.yml
+[I 21:51:41.909 NotebookApp] Saving file at /configs/uda.yml
+[I 21:51:42.057 NotebookApp] Saving file at /configs/uda.yml
+[I 21:52:05.994 NotebookApp] Saving file at /configs/uda.yml
+[I 21:52:34.767 NotebookApp] Saving file at /configs/uda.yml
+[I 21:52:34.879 NotebookApp] Saving file at /configs/uda.yml
+[I 21:52:35.031 NotebookApp] Saving file at /configs/uda.yml
+[I 21:52:41.836 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 21:52:42.877 NotebookApp] Kernel restarted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 21:52:42.948 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 21:52:43.452 NotebookApp] Replaying 3 buffered messages
+[I 21:53:04.385 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:04.497 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:04.747 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:09.738 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:10.139 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:10.335 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:13.778 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:13.934 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:24.377 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:24.532 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:24.833 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:33.522 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:34.005 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:36.653 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:53:51.356 NotebookApp] Saving file at /configs/uda.yml
+[I 21:53:51.504 NotebookApp] Saving file at /configs/uda.yml
+[I 21:53:51.672 NotebookApp] Saving file at /configs/uda.yml
+[I 21:53:57.934 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 21:53:58.666 NotebookApp] Kernel restarted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 21:53:58.736 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 21:53:59.239 NotebookApp] Replaying 3 buffered messages
+[I 21:54:35.342 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:54:35.496 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:04.469 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:04.586 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:17.397 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:17.533 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:18.939 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:19.052 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:33.482 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:55:33.643 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:56:16.982 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:56:17.121 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:56:38.698 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:56:38.833 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:56:53.432 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:57:36.665 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:57:44.985 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:11.254 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:11.373 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:16.127 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:36.665 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:48.187 NotebookApp] Saving file at /inference.py.ipynb
+[I 21:59:48.296 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:00:09.462 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:00:09.598 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:01:26.341 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:01:36.676 NotebookApp] Saving file at /inference.py.ipynb
+[W 22:01:53.165 NotebookApp] 404 GET /api/kernels/0d7151b3-df48-42e2-b6ae-549ffccb7d45/channels?session_id=c51bbbd2161c40de8ca287b7421e6010 (127.0.0.1): Kernel does not exist: 0d7151b3-df48-42e2-b6ae-549ffccb7d45
+[W 22:01:53.167 NotebookApp] 404 GET /api/kernels/0d7151b3-df48-42e2-b6ae-549ffccb7d45/channels?session_id=c51bbbd2161c40de8ca287b7421e6010 (127.0.0.1) 3.800000ms referer=None
+[W 22:02:10.801 NotebookApp] 404 GET /api/kernels/0af066ae-3e53-46fc-8e2b-ec3343032778/channels?session_id=557acff28de7493d8644adc8616cbb2a (127.0.0.1): Kernel does not exist: 0af066ae-3e53-46fc-8e2b-ec3343032778
+[W 22:02:10.802 NotebookApp] 404 GET /api/kernels/0af066ae-3e53-46fc-8e2b-ec3343032778/channels?session_id=557acff28de7493d8644adc8616cbb2a (127.0.0.1) 4.380000ms referer=None
+[W 22:02:12.072 NotebookApp] 404 GET /api/kernels/0af066ae-3e53-46fc-8e2b-ec3343032778/channels?session_id=557acff28de7493d8644adc8616cbb2a (127.0.0.1): Kernel does not exist: 0af066ae-3e53-46fc-8e2b-ec3343032778
+[W 22:02:12.073 NotebookApp] 404 GET /api/kernels/0af066ae-3e53-46fc-8e2b-ec3343032778/channels?session_id=557acff28de7493d8644adc8616cbb2a (127.0.0.1) 3.360000ms referer=None
+[W 22:02:17.355 NotebookApp] 404 GET /api/contents/result_analysis_slofundus.ipynb?content=0&_=1709118797906 (127.0.0.1): file or directory does not exist: 'result_analysis_slofundus.ipynb'
+[W 22:02:17.356 NotebookApp] file or directory does not exist: 'result_analysis_slofundus.ipynb'
+[W 22:02:17.360 NotebookApp] 404 GET /api/contents/result_analysis_slofundus.ipynb?content=0&_=1709118797906 (127.0.0.1) 5.630000ms referer=http://localhost:8004/notebooks/result_analysis_slofundus.ipynb
+[I 22:02:17.582 NotebookApp] Uploading file to /result_analysis_slofundus.ipynb
+[W 22:02:17.583 NotebookApp] Notebook result_analysis_slofundus.ipynb is not trusted
+[I 22:02:17.853 NotebookApp] Saving file at /result_analysis_slofundus.ipynb
+[W 22:02:17.854 NotebookApp] Notebook result_analysis_slofundus.ipynb is not trusted
+[I 22:03:36.700 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:05:34.321 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:05:34.465 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:07:37.549 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:13:41.522 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:41.734 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:47.663 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:47.785 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:49.591 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:49.715 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:50.783 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:50.895 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:55.699 NotebookApp] Saving file at /datasets/bases.py
+[I 22:13:55.848 NotebookApp] Saving file at /datasets/bases.py
+[I 22:14:04.837 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:14:05.877 NotebookApp] Kernel restarted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:14:05.940 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:14:06.445 NotebookApp] Replaying 3 buffered messages
+[W 22:14:20.292 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 22:14:27.332 NotebookApp] iopub messages resumed
+[W 22:14:39.606 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 22:14:45.940 NotebookApp] iopub messages resumed
+[I 22:15:05.905 NotebookApp] Saving file at /datasets/bases.py
+[I 22:15:06.060 NotebookApp] Saving file at /datasets/bases.py
+[I 22:15:06.220 NotebookApp] Saving file at /datasets/bases.py
+[I 22:15:20.946 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:15:21.886 NotebookApp] Kernel restarted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:15:21.945 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:15:22.450 NotebookApp] Replaying 3 buffered messages
+[W 22:15:31.005 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 22:15:36.692 NotebookApp] Saving file at /inference.py.ipynb
+[W 22:15:38.011 NotebookApp] iopub messages resumed
+[I 22:15:54.886 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:15:55.032 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:16:08.471 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:16:08.626 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:15.893 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:16.048 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:18.864 NotebookApp] Saving file at /datasets/bases.py
+[I 22:17:19.021 NotebookApp] Saving file at /datasets/bases.py
+[I 22:17:25.966 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:17:26.905 NotebookApp] Kernel restarted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:17:26.968 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 22:17:27.472 NotebookApp] Replaying 3 buffered messages
+[I 22:17:36.695 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:43.325 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:43.496 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:17:50.372 NotebookApp] Kernel interrupted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:18:02.202 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:02.329 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:05.656 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:05.827 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:11.127 NotebookApp] Kernel interrupted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:18:26.840 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:26.951 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:27.111 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:28.798 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:28.926 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:43.395 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:18:43.512 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:27.509 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:27.626 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:32.743 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:32.854 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:33.048 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:33.981 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:34.066 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:19:37.570 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:20:04.004 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:20:04.712 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:21:43.604 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:22:26.483 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:22:26.715 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:18.306 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:18.422 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:19.380 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:19.518 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:24.063 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:24.175 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:31.049 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:31.171 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:38.152 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:38.260 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:41.400 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:41.548 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:44.859 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:47.839 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:47.975 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:51.526 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:23:51.673 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:26.389 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:48.648 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:48.769 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:50.157 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:55.058 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:55.152 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:24:57.537 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:03.679 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:03.804 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:08.379 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:16.696 NotebookApp] Kernel interrupted: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 22:25:19.076 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:19.240 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:19.377 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:25:29.918 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:02.053 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:02.195 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:09.978 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:16.574 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:23.465 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:57.825 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:26:57.993 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:27:02.952 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:27:03.048 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:27:36.209 NotebookApp] Saving file at /utils/metrics.py
+[I 22:27:37.559 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:27:43.590 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:27:46.724 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:29:36.712 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:29:38.677 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:29:52.880 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:00.736 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:00.858 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:05.007 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:05.139 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:06.302 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:06.406 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:10.145 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:18.696 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:18.832 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:20.002 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:20.147 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:30.552 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:30.713 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:34.618 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:30:40.080 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:31:36.729 NotebookApp] Saving file at /inference.py.ipynb
+[W 22:31:47.054 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:32:24.193 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:32:24.193 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:32:24.499 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:32:24.500 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:32:50.102 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:32:50.102 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:32:50.417 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:32:50.417 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:32:58.787 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:32:58.787 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:02.428 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:02.429 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:04.825 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:04.825 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:05.121 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:05.122 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:05.566 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:05.566 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:05.866 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:05.866 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:10.968 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:10.969 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:11.294 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:11.295 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:45.153 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:45.154 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:45.417 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:45.418 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:52.359 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:52.360 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:33:52.670 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:33:52.671 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:18.402 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:18.402 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:18.710 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:18.711 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:18.976 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:18.977 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:19.284 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:19.285 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:19.609 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:19.610 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:31.335 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:31.336 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:31.652 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:31.653 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:31.917 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:31.918 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:33.109 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:33.110 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:33.416 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:33.417 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:38.459 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:38.459 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:39.991 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:39.991 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:40.306 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:40.307 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:45.636 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:45.637 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:49.124 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:49.125 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:49.437 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:49.437 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:52.720 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:52.721 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:55.700 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:55.701 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:59.445 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:59.445 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:34:59.812 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:34:59.812 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:01.888 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:01.889 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:05.102 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:05.103 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:10.167 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:10.168 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:10.504 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:10.505 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:12.490 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:12.490 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:15.397 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:15.398 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:20.018 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:20.019 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:20.394 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:20.395 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:22.525 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:22.526 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:25.630 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:25.630 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:32.308 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:32.308 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:32.618 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:32.619 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:39.166 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:39.166 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:39.506 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:39.506 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:39.762 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:39.762 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:47.823 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:47.824 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:49.053 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:49.054 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:52.399 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:52.399 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:55.471 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:55.471 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:58.808 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:58.808 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:59.119 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:59.120 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:59.431 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:59.432 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:35:59.712 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:35:59.713 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:05.301 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:05.302 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:05.624 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:05.625 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:07.068 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:07.069 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:07.389 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:07.389 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:11.552 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:11.553 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:11.848 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:11.849 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:14.889 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:14.890 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:15.200 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:15.201 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:19.218 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:19.218 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:19.517 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:19.518 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:19.821 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:19.821 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:20.121 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:20.121 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:24.605 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:24.605 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:24.912 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:24.913 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:27.553 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:27.553 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:27.856 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:27.857 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:43.645 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:43.646 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:43.969 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:43.970 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:51.957 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:51.958 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:52.717 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:52.718 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:36:53.028 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:36:53.029 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:05.631 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:05.631 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:05.941 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:05.942 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:07.154 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:07.154 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:07.472 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:07.473 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:16.395 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:16.395 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:16.710 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:16.711 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:17.822 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:17.823 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:18.131 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:18.132 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:28.611 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:28.611 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:28.911 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:28.911 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:47.843 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:47.843 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:49.927 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:49.927 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:50.247 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:50.247 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:54.995 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:54.995 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:37:55.295 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:37:55.295 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:38:00.292 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:17.810 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:21.151 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:30.385 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:30.519 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:30.677 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:51.638 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:51.796 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:51.993 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:52.910 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:53.029 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:38:58.298 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:09.254 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:09.501 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:11.542 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:11.647 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:11.873 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:19.417 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:19.549 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:21.483 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:21.589 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:22.306 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:22.442 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:36.698 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:49.855 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:59.590 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:39:59.723 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:40:05.154 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:40:13.255 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:40:46.981 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:40:48.548 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:40:48.740 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:42:20.710 NotebookApp] Creating new file in 
+[I 22:42:34.427 NotebookApp] Saving file at /fair_metrics.py
+[I 22:42:34.551 NotebookApp] Saving file at /fair_metrics.py
+[I 22:43:26.862 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:27.088 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:36.710 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:41.970 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:42.158 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:51.993 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:55.284 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:59.050 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:43:59.282 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:44:28.723 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:44:28.829 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:24.302 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:24.413 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:34.551 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:38.771 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:38.867 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:42.524 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:43.099 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:51.224 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:45:51.383 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:46:16.463 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:46:16.580 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:46:33.564 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:46:54.518 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:47:36.720 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:47:46.368 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:47:46.497 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:47:56.096 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:47:56.194 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:00.830 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:00.962 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:14.233 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:14.338 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:16.735 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:16.830 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:20.490 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:20.590 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:26.230 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:26.322 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:28.554 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:28.706 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:29.613 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:29.739 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:38.694 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:43.397 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:43.536 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:45.221 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:48:45.366 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:02.631 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:02.718 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:16.656 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:16.791 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:21.151 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:21.271 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:22.961 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:23.089 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:24.578 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:24.682 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:28.553 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:28.681 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:38.268 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:38.376 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:39.132 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:49:39.260 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:51:35.932 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:51:36.056 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:08.189 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:08.287 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:16.908 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:17.025 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:23.112 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:23.253 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:41.405 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:41.516 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:53.211 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:52:53.326 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:53:00.305 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:53:00.413 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:53:00.961 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:53:01.074 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:54:58.276 NotebookApp] Saving file at /fair_metrics.py
+[I 22:54:58.406 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:08.280 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:08.389 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:23.814 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:23.924 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:57.623 NotebookApp] Saving file at /fair_metrics.py
+[I 22:55:57.796 NotebookApp] Saving file at /fair_metrics.py
+[I 22:56:01.717 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:28.912 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:56:28.912 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:56:29.281 NotebookApp] Saving file at /data/FairDomain_Classify/data_process.ipynb
+[W 22:56:29.282 NotebookApp] Notebook data/FairDomain_Classify/data_process.ipynb is not trusted
+[I 22:56:41.383 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:45.132 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:45.289 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:51.058 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:51.175 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:52.387 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:56:52.514 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:03.239 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:03.359 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:06.863 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:06.990 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:12.997 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:13.119 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:21.250 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:21.366 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:22.262 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:22.366 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:45.269 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:45.383 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:46.594 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:57:46.711 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:58:11.568 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:58:16.101 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:58:18.366 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:58:49.478 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:59:25.079 NotebookApp] Saving file at /inference.py.ipynb
+[I 22:59:25.248 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:00:18.198 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:00:18.341 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:00:18.881 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:00:19.001 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:00:49.275 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:02.487 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:02.607 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:12.452 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:12.565 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:19.989 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:23.342 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:24.274 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:24.430 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:30.649 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:37.805 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:41.554 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:46.619 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:50.066 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:51.357 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:51.467 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:56.406 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:56.522 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:58.587 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:01:58.707 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:02:02.407 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:02:02.543 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:02:12.387 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:02:14.095 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:02:14.279 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:03:36.751 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:13:23.462 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:13:23.929 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:13:24.117 NotebookApp] Saving file at /inference.py.ipynb
+[I 23:18:48.339 NotebookApp] Starting buffering for 26aae0d3-ac1f-45d0-8137-25e772a0499d:9f055eef472d48e58427e7d9286619e5
+[I 23:18:48.340 NotebookApp] Starting buffering for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 11:46:27.056 NotebookApp] Restoring connection for 5c53e012-5c1a-4146-ac75-57856f154dd0:9a310074cd28488697a6f8c3bd3056a4
+[I 11:49:01.220 NotebookApp] Saving file at /inference.py.ipynb
+[I 11:49:01.399 NotebookApp] Saving file at /inference.py.ipynb
+[I 11:50:22.213 NotebookApp] Shutting down on /api/shutdown request.
+[I 11:50:22.213 NotebookApp] Shutting down 2 kernels
+[I 11:50:22.213 NotebookApp] Kernel shutdown: 5c53e012-5c1a-4146-ac75-57856f154dd0
+[I 11:50:23.330 NotebookApp] Kernel shutdown: 26aae0d3-ac1f-45d0-8137-25e772a0499d
+[I 11:50:23.846 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
